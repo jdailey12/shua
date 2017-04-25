@@ -12,9 +12,10 @@
   background-size: cover;
   -o-background-size: cover;
   text-shadow: 1px 1px rgba(0, 0, 0, 0.5);*/
-body {
-  body {overflow-x: hidden;}
-}
+
+  body {
+    overflow-x: hidden;
+  }
 
 .intro-shadow {
   text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
@@ -46,8 +47,8 @@ body {
   background: url("../img/messbg.jpg") no-repeat bottom center scroll;
   display: table;
   width: 100%;
-  height: auto;
   padding: 100px 0;
+  height: auto;
   text-align: center;
   color: white;
   background-color: black;
@@ -57,6 +58,18 @@ body {
   -o-background-size: cover;
   text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
 }
+
+/*.download-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}*/
 
 #DJ {
   background: url("../img/djbg.jpg") no-repeat bottom center scroll;
