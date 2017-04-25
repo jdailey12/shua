@@ -95,12 +95,12 @@ body {
 }
 
 
-#albums img {
+/*#albums img {
   display: block;
     margin-right: auto;
     margin-left: auto;
     max-width:100%;
-}
+}*/
 
 .jum1 {
   background-color: rgba(14, 14, 14, 0.75)
