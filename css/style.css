@@ -1,0 +1,108 @@
+/*#about {
+  background: url("http://i.imgur.com/PFdSDz7.gif") no-repeat bottom center scroll;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);*/
+
+.intro-shadow {
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.myimg {
+  display: block;
+  margin: auto;
+  max-width:50%;
+}
+
+#into {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  padding-bottom: 300px;
+  text-align: center;
+  color: white;
+  background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+#about {
+  background: url("../img/messbg.jpg") no-repeat bottom center scroll;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+#DJ {
+  background: url("../img/djbg.jpg") no-repeat bottom center scroll;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+#Production {
+  background: url("../img/productionshua.jpg") no-repeat bottom center scroll;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: white;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+#music {
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+
+#albums img {
+  display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width:100%;
+}
+
+.jum1 {
+  background-color: rgba(14, 14, 14, 0.75)
+}
+
+.jum2 {
+  background-color: rgba(135, 135, 135, 0.5)
+}
