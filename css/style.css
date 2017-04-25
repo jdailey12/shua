@@ -12,6 +12,9 @@
   background-size: cover;
   -o-background-size: cover;
   text-shadow: 1px 1px rgba(0, 0, 0, 0.5);*/
+body {
+  body {overflow-x: hidden;}
+}
 
 .intro-shadow {
   text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
@@ -20,10 +23,10 @@
 .myimg {
   display: block;
   margin: auto;
-  max-width:50%;
+  max-width:40%;
 }
 
-#into {
+/*#into {
   display: table;
   width: 100%;
   height: auto;
@@ -37,7 +40,7 @@
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-}
+}*/
 
 #about {
   background: url("../img/messbg.jpg") no-repeat bottom center scroll;
