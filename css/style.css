@@ -48,7 +48,7 @@
 }*/
 
 #about {
-  background: url("../img/messbg.jpg") no-repeat bottom center scroll;
+  background: url("../img/downloads-bg.jpg") no-repeat bottom center scroll;
   display: table;
   width: 100%;
   padding: 100px 0;
@@ -125,4 +125,16 @@
 
 .jum2 {
   background-color: rgba(135, 135, 135, 0.5)
+}
+
+.youtubed {
+  color: rgb(255, 65, 65) !important;
+  border-color: rgb(255, 65, 65) !important;
+}
+
+.youtubed:hover {
+  background: rgb(255, 65, 65) !important;
+  color: white !important;
+  text-shadow: none;
+  border-color: white !important;
 }
