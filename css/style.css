@@ -138,3 +138,7 @@
   text-shadow: none;
   border-color: white !important;
 }
+
+p {
+  font-family: "montserrat";
+}
